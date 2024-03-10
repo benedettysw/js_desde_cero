@@ -5,12 +5,12 @@
 
 if (true){
 
-    let sasludar ="hola careverga"
+    let saludar ="hola careverga"
 
 }
 //Si imprime saludar fuera del conjunto del codigo con si permite a diferencia de let y conts
 
-console.log(sasludar)
+console.log(saludar)
 
 
 
@@ -34,17 +34,24 @@ console.log(4 === numero)
 
 //Comparacion de logica (&& Y) se debe de cumplir todas las comparaciones si o si
 
-let edad = 10 , dni = true;5
+let edadd = 10 , dni = true;5
 
-console.log(edad >= 18 && dni == true)
+console.log(edadd >= 18 && dni == true)
 
 
 //Comparacion de logica (|| OR) se debe de cumplir por lo meno 1 
 
 let edad1 = 10 , dni1 = true;
 
-console.log(edad >= 18 || dni == true)
+console.log(edadd >= 18 || dni == true)
 
+
+let nombre = "brando";
+let apellido = "wilches";
+let edad = 20;
+let pais = "colombia"
+
+console.log(nombre +" "+ apellido+ " " + edad + " " + pais)
 
 
 
