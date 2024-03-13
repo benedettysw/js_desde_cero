@@ -20,10 +20,11 @@ if (promedio == true){
 
 let num = 0;
 
-while ( num < 10){
+while ( num <= 10){
+
     num++
 
-    if(num % 2){
+    if(num % 3 == 0){
 
         console.log(num)
     }
