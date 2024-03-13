@@ -6,11 +6,10 @@
 if (true){
 
     let saludar ="hola careverga"
+    console.log(saludar)
 
 }
 //Si imprime saludar fuera del conjunto del codigo con si permite a diferencia de let y conts
-
-console.log(saludar)
 
 
 
